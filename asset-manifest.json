@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eth-boilerplate/static/css/main.1938dd71.css",
+    "main.js": "/eth-boilerplate/static/js/main.bec9d8eb.js",
+    "index.html": "/eth-boilerplate/index.html",
+    "main.1938dd71.css.map": "/eth-boilerplate/static/css/main.1938dd71.css.map",
+    "main.bec9d8eb.js.map": "/eth-boilerplate/static/js/main.bec9d8eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1938dd71.css",
+    "static/js/main.bec9d8eb.js"
+  ]
+}
